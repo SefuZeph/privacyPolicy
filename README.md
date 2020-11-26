@@ -1,0 +1,2 @@
+# privacyPolicy
+Application Privacy Policy
